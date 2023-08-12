@@ -1,0 +1,82 @@
+a:link {
+    color: tomato;
+}
+a:visited {
+    color: rgb(14, 5, 3);
+}
+body{
+    background-color: rgb(246, 217, 226);
+}
+i{
+    font-style:oblique;
+}
+    h1:hover{
+        color: brown;}
+
+        .a{
+            background-color: rgb(90, 60, 116);
+            border-radius: 30px;
+            margin: 10px;
+        }
+        .e{
+            background-color: rgb(92, 70, 120);
+            border-radius: 30px ; 
+            margin: 10px;
+        }
+        .c{
+            background-color: rgb(94, 80, 124);
+            border-radius: 30px;
+            margin: 10px;
+        }
+        .d{
+            background-color: rgb(96, 90, 128);
+            border-radius: 30px;
+            margin: 10px;
+        }
+.a , .c , .d , .e{
+        display: inline-block;
+}
+.slm{
+    color: aliceblue;
+    border-radius: 50px / 25px;
+    margin: 20px;
+}
+h3{
+    font-style:oblique;
+}
+.la{
+    background-color: rgb(149, 114, 140);
+    border-radius: 50;
+    color: black;
+}
+.ba{
+    color: azure;
+    background-color: azure;
+    border: 2px;
+}
+.ba:hover{
+    color: rgb(172, 87, 142);
+}
+.bi{
+    color: rgb(255, 120, 223);
+    border-radius: 30px;
+    background-color: rgb(2, 10, 10);
+}
+sah{
+    display: inline-block;
+    border: 2px;
+}
+th{
+    border-radius: 50px;
+    background-color: rgb(231, 235, 228);
+}
+td{
+    color:  rgb(191, 144, 234);
+    background-color:  rgb(191, 144, 234);
+}
+td:hover{
+    color:black;
+}
+.lal{
+    background-color: azure;
+}
